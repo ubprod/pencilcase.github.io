@@ -1,0 +1,39 @@
+<html>
+	<head>
+	<title>E-Portfolio</title>
+	<style type="text/css">
+	body {
+	background-color: #d2b48c;
+	background-image: url(coffeepic.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 20%
+	margin-right: 20%
+	border: 1px dotted gray
+	padding: 10px 10px 10px 10px;
+	font-family:sans-serif;
+	}
+	</style>
+	</head>
+	<center>
+	<body>
+	<h1 style="color:#F4F1F1;">Skateboard Club / Join Now!</h1>
+	<h1 style="color:#F4F1F1;">Mr. Johns Room</h1>
+	<p style="color:#F4F1F1;">A club for elite skaters to enhancer their skating skills.</p>
+	<img src="skateboardclub.gif.png" width="300px">
+	<h2 style="color:#F4F1F1;">New Magazine</h2>
+	<p style="color:#F4F1F1;">Statistics of the LGBT.</p>
+	<img src=" magazine.gif.jpg" width="300px">
+	<h2 style="color:#F4F1F1;">Cappuccino, $1.89</h2>
+	<p style="color:#F4F1F1;">A spicy drink made with black tea, soices, milk and honey.</p>
+	<img src=" cappuccino.gif" width="300px">
+	<h2 style="color:#F4F1F1;">Chai Tea, $1.85</h2>
+	<p style="color:#F4F1F1;">A spicy drink made with black tea, soices, milk and honey.</p>
+	<img src=" chaitea.gif" width="250px">
+	<h2><a href="index.html">Go Back</a></h2>
+	</center>
+	</body>
+	</html>
+	
+	
+	
